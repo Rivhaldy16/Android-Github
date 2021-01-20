@@ -9,7 +9,7 @@ import retrofit2.http.Headers
 import retrofit2.http.Path
 import retrofit2.http.Query
 
-private const val token: String = "Authorization: token ed32f1ca399072d2cd89c737a13112ac69685e66"
+private const val token: String = "Authorization: token fcffd46d359e6048524a57970de5262d173d46f3"
 interface Api {
 
     @GET("search/users")
